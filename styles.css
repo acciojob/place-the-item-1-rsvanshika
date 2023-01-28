@@ -1,2 +1,9 @@
+.holder {
+	display: flex;
+/* 	to have space between them */
+	justify-content:space-between;
+/* new element will apear in next row */
+	flex-wrap: wrap;
+}
 
 /* Your CSS Code here. */
